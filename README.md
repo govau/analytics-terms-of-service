@@ -83,9 +83,7 @@ DTA pays fees to its Sales Partner based on the number of **Billable Hits per mo
 
 The DTA invoices agencies that subscribe annually in advance. Invoices are payable within 30 days.
 
-Fees are calculated on a cost recovery basis in accordance with the following table.
-
-Table
+[Fees are calculated on a cost recovery basis](https://www.dta.gov.au/our-projects/google-analytics-government#cost).
 
 The DTA reviews the fees annually with an intent to reduce costs to agencies that subscribe.
 
