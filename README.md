@@ -18,7 +18,11 @@ This means that your agency’s use of the Google Analytics is subject to the te
 **Account** and **Property** have the same meaning as in the **Google Analytics Terms of Service**.
 
 ## How does onboarding work?
-The DTA will onboard your agency to the Google Analytics 360 Suite service, including upgrading your agency’s Google Analytics Account to 360 status.
+The DTA will:
+* onboard your agency to the Google Analytics 360 Suite service, including upgrading your agency’s Google Analytics Account to 360 status.
+* onboard your Google Analytics Account to the DTA's data analysis tools [Why?](https://dta.gov.au/our-projects/google-analytics-for-government/observatory):
+    * Google BigQuery
+    * Google Search Console
 
 Your agency needs to:
 * create and implement Analytics Properties on your agency’s web services
