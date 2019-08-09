@@ -20,7 +20,7 @@ This means that your agency’s use of the Google Analytics is subject to the te
 ## How does onboarding work?
 The DTA will:
 * onboard your agency to the Google Analytics 360 Suite service, including upgrading your agency’s Google Analytics Account to 360 status.
-* onboard your Google Analytics Account to the DTA's data analysis tools [Why?](https://www.dta.gov.au/our-projects/google-analytics-government/dta-terms-service-google-analytics-360#data-confidential):
+* onboard your Google Analytics Account to the DTA's data analysis environment [Why?](https://www.dta.gov.au/our-projects/google-analytics-government/dta-terms-service-google-analytics-360#data-confidential):
     * Google BigQuery
     * Google Search Console
 
@@ -74,6 +74,8 @@ In order to subscribe, your agency must give the DTA read-only access to your ag
 * assist your agency in improving their online services where, and if, required
 * improve or refine training to your agency’s staff
 * continue the DTA’s commitment to assist all government agencies in creating and maintaining online services that are simple, clear and fast.
+
+The DTA uses its data analysis environment to develop strategic insights about the .gov.au domain. The DTA will share these insights with agencies to assist them in improving their digital environment and service delivery.
 
 The DTA may also disclose information collected from your agency with third parties without your consent:
 * for purposes relating to these terms of service
